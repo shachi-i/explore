@@ -256,22 +256,14 @@ p{
 
 
 .copyright {
-    
-    
-    color: #979797;
-    font-size: 15px;
-    
-    
-    
-    
-    
-    
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
-    justify-content: flex-start;
-    align-items:flex-start;
+   position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
     color: black;
-    grid-template-rows: 0.5fr 2fr;
 }
 
 img {
