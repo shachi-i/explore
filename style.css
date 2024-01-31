@@ -273,6 +273,8 @@ p{
     padding: 20px;
     color: #979797;
     font-size: 15px;
+    display: flex;
+    align-items:center;
 }
 
 img {
@@ -326,5 +328,6 @@ img {
     }
     .copyright p{
         flex-direction:column;
+        text-align:center;
     }
 }
