@@ -273,18 +273,21 @@ p{
     padding: 20px;
     color: #979797;
     font-size: 15px;
-    display: grid;
+    
     align-items:flex-start;
     position: absolute;
     bottom: 0;
     
     width: 100%;
-    justify-content: space-between;
+    
     padding: 20px;
-     grid-template-columns: 3fr 1fr 1fr 1fr 1fr;
-    justify-content:center;
+    
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    justify-content: flex-start;
     align-items:flex-start;
     color: black;
+    grid-template-rows: 0.5fr 2fr;
 }
 
 img {
