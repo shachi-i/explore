@@ -324,4 +324,7 @@ img {
     .col img{
         max-width: 90%;
     }
+    .copyright p{
+        flex-direction:column;
+    }
 }
