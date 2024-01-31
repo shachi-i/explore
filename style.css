@@ -268,16 +268,16 @@ p{
     transition: transform 0.6s;
 }
 
-.copyright p{
-    text-align: center;
+.copyright {
+    
     padding: 20px;
     color: #979797;
     font-size: 15px;
-    display: flex;
-    align-items:center;
+    display: grid;
+    align-items:flex-start;
     position: absolute;
     bottom: 0;
-    display: flex;
+    
     width: 100%;
     justify-content: space-between;
     padding: 20px;
@@ -332,8 +332,9 @@ img {
     .col img{
         max-width: 90%;
     }
-    .copyright p{
+    .copyright {
         flex-direction:column;
         text-align:center;
+        grid-gap: 3em;
     }
 }
