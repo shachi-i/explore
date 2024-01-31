@@ -275,6 +275,12 @@ p{
     font-size: 15px;
     display: flex;
     align-items:center;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
 }
 
 img {
