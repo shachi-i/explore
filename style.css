@@ -191,8 +191,8 @@ p{
     text-align: center;
     overflow: hidden;
 }
-.subscribe-box h2{
-    font-size: 30px;
+.subscribe-box h4{
+    font-size: 20px;
     line-height: 45px;
     font-weight: 700;
     color: #ffffff;
