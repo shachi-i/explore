@@ -180,8 +180,8 @@ p{
 
 .container{
     /*max-width: 900px;*/
-    width:900vw ;
-    height: 500vh
+    width:100vw ;
+    height: 100vh
     margin: 30px auto;
     display: flex;
     align-items: center;
@@ -200,7 +200,7 @@ p{
     box-sizing:border-box;
 }
 .subscribe-box h2{
-    font-size: 9vw;
+    font-size:4vmin ;
     
     color: #ffffff;
 }
