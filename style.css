@@ -323,10 +323,11 @@ img {
     .col img{
         max-width: 90%;
     }
+    /*
     .subscribe-box h2{
         font-size: 10px;
         font-weight: 500;
-    }
+    }*/
         
     .copyright {
         flex-direction:column;
