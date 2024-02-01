@@ -182,6 +182,9 @@ p{
     max-width: 900px;
     width:900px ;
     margin: 30px auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 .subscribe-box{
