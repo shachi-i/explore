@@ -179,7 +179,7 @@ p{
 }
 
 .container{
-    max-width: 900px;
+    /*max-width: 900px;*/
     width:900vw ;
     height: 500vh
     margin: 30px auto;
