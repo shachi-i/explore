@@ -173,7 +173,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;
+    
     width: 60%;
     padding: 50px;
 }
@@ -192,7 +192,7 @@ p{
     overflow: hidden;
 }
 .subscribe-box h2{
-    font-size: 40px;
+    font-size: 30px;
     line-height: 45px;
     font-weight: 700;
     color: #ffffff;
