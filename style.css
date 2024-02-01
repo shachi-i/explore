@@ -173,7 +173,9 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 80vh;
+    width: 60%;
+    padding: 50px;
 }
 
 .container{
@@ -195,15 +197,15 @@ p{
     font-weight: 700;
     color: #ffffff;
 }
-/*
+
 .subscribe-box form{
     width: 600px;
     height: 70px;
     background: #d1d1d2;
 
-}*/
+}
 .subscribe-box form input{
-    font-size: 18px;
+    
     color: #202020;
     padding: 15px 10px;
     border: none;
@@ -315,9 +317,12 @@ img {
     .col img{
         max-width: 90%;
     }
+    .subscribe-box form input{
+        
     .copyright {
         flex-direction:column;
         text-align:center;
         grid-gap: 3em;
     }
+    
 }
